@@ -68,7 +68,7 @@ Overall, all teams have successfully initiated their activities with clear owner
 | Area | Status |
 |---|---|
 | Workspace Setup | Created |
-| Administrative Boundary Dataset (33 districts) | Ingested and validated |
+| Administrative Boundary Dataset  | Ingested and validated |
 | QGIS Master Project | Configured |
 | OWS Server Configuration | Completed |
 | Metadata & CRS Documentation | Completed |
