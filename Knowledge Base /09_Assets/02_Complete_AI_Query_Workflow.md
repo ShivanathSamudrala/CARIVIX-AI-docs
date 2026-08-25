@@ -13,17 +13,13 @@ flowchart TD
     G --> H[Feature Extraction]
     H --> I[Query Classification / Routing]
     I --> J{Query Type}
-
     J -->|Knowledge| K[RAG Pipeline]
     J -->|Prediction| L[ML Model Pipeline]
     J -->|Spatial| M[GIS Processing]
-
     K --> N[Retrieved Context]
     N --> O[LLM Response Generation]
-
     L --> P[Model Service]
     P --> Q[ML Prediction]
-
     M --> R[GIS Result]
 
     O --> S[Response Integration]
