@@ -1,10 +1,16 @@
-# CARIVIX AI – Week 4 Finalization Report
+# Weekly Team Report
 
-**Project:** CARIVIX AI – AI-Powered Research, Intelligence & Decision Support Ecosystem  
-**Document Version:** 1.0  
-**Reporting Period:** Week 4 (18-08-2026 to 24-08-2026)  
-**Prepared By:** Technical Writer  
-**Prepared For:** Project Stakeholders / Leadership Team  
+
+| Field | Details |
+|---|---|
+| **Project** | CARIVIX AI – AI-Powered Research, Intelligence & Decision Support Ecosystem  |
+| **Report Type** | Weekly Team Progress Report |
+| **Sprint** | Sprint 3 — Core Integration, Intelligence, Product Design, Research, SEO & Documentation |
+| **Week** | Week 4 |
+| **Reporting Period** | 18/08/2026 – 24/08/2026 |
+| **Report Date** | 29/08/2026 |
+| **Prepared By** | Shivanath Samudrala (Technical Writer) |
+| **Version** | 1.0 |
 
 ---
 
@@ -38,16 +44,15 @@ The Data Analyst Team progressed the CARIVIX AI analytics work from KPI definiti
 
 | **Work Area** | **Status** |
 |---------------|------------|
-| KPI Definition & Mapping | ✅ Completed |
-| Analytical Dataset Preparation | ✅ Completed |
-| Data Modeling | ✅ Completed |
-| Dashboard Development | ✅ Completed |
-| Data Quality Validation | ✅ Completed |
-| Source Validation | ✅ Completed |
-| Dashboard Validation | ✅ Completed |
-| KPI Lineage | ✅ Completed |
-| Data Dictionary | ✅ Completed |
-| Final Dataset Package | ✅ Completed |
+| KPI Definition & Mapping |  Completed |
+| Analytical Dataset Preparation |  Completed |
+| Data Modeling |  Completed |
+| Dashboard Development |  Completed |
+| Source Validation |  Completed |
+| Dashboard Validation |  Completed |
+| KPI Lineage |  Completed |
+| Data Dictionary |  Completed |
+| Final Dataset Package |  Completed |
 
 ### Key Achievements
 
@@ -100,24 +105,24 @@ The NLP & Voice Assistant Developer developed and integrated the core NLP query-
 
 | **Date** | **Task** | **Status** |
 |----------|----------|------------|
-| 18-08-2026 | NLP Pipeline Review and Refactoring | ✅ Completed |
-| 19-08-2026 | CARIVIX Query Categories and Intent Structure | ✅ Completed |
-| 20-08-2026 | Named Entity Recognition (NER) | ✅ Completed |
-| 21-08-2026 | NLP Pipeline Integration and Query Testing | ✅ Completed |
-| 22-08-2026 | Query Classification Evaluation and Rule Improvement | ✅ Completed |
-| 23-08-2026 | NLP Demonstration and Architecture Documentation | ✅ Completed |
-| 24-08-2026 | Test Results and Evidence Submission | ✅ Completed |
+| 18-08-2026 | NLP Pipeline Review and Refactoring | Completed |
+| 19-08-2026 | CARIVIX Query Categories and Intent Structure |  Completed |
+| 20-08-2026 | Named Entity Recognition (NER) |  Completed |
+| 21-08-2026 | NLP Pipeline Integration and Query Testing |  Completed |
+| 22-08-2026 | Query Classification Evaluation and Rule Improvement | Completed |
+| 23-08-2026 | NLP Demonstration and Architecture Documentation | Completed |
+| 24-08-2026 | Test Results and Evidence Submission |  Completed |
 
 ### Key Achievements
 
 | **#** | **Achievement** | **Status** |
 |-------|-----------------|------------|
-| 1 | Reviewed and refactored NLP preprocessing pipeline | ✅ |
-| 2 | Defined 16-category CARIVIX query and intent classification structure | ✅ |
-| 3 | Created intent classification dataset | ✅ |
-| 4 | Implemented NER for Location, Date, Metric, and Organization entities | ✅ |
-| 5 | Integrated preprocessing, intent classification, and entity extraction | ✅ |
-| 6 | Achieved 83.33% initial classification accuracy | ✅ |
+| 1 | Reviewed and refactored NLP preprocessing pipeline | Completed |
+| 2 | Defined 16-category CARIVIX query and intent classification structure | Completed |
+| 3 | Created intent classification dataset | Completed |
+| 4 | Implemented NER for Location, Date, Metric, and Organization entities | Completed |
+| 5 | Integrated preprocessing, intent classification, and entity extraction | Completed |
+| 6 | Achieved 83.33% initial classification accuracy | Completed |
 
 ### Intent Classification Results
 
@@ -164,12 +169,12 @@ The GIS Engineer covered the full path from a reviewed set of GIS datasets to a 
 
 | **Day** | **Focus** | **Status** |
 |---------|-----------|------------|
-| Day 1 | GIS Dataset Review, CRS & Geometry Validation | ✅ Completed |
-| Day 2 | Schema Organization & Spatial Indexing | ✅ Completed |
-| Day 3 | GIS API Deployment & Endpoint Verification | ✅ Completed |
-| Day 4 | Roads & Water Integration and Spatial Filtering | ✅ Completed |
-| Day 5 | Performance Verification, Index Validation & Final Rendering Sweep | ✅ Completed |
-| Day 6 | GIS Technical Demonstration, Architecture Documentation & Evidence Submission | ✅ Completed |
+| Day 1 | GIS Dataset Review, CRS & Geometry Validation |  Completed |
+| Day 2 | Schema Organization & Spatial Indexing |  Completed |
+| Day 3 | GIS API Deployment & Endpoint Verification |  Completed |
+| Day 4 | Roads & Water Integration and Spatial Filtering |  Completed |
+| Day 5 | Performance Verification, Index Validation & Final Rendering Sweep | Completed |
+| Day 6 | GIS Technical Demonstration, Architecture Documentation & Evidence Submission |  Completed |
 
 ### Key Results
 
@@ -230,32 +235,32 @@ The Python/R Developer moved the Python backend from separate working modules in
 
 | **Workstream** | **Status** |
 |----------------|------------|
-| Codebase Review and Cleanup | ✅ Completed |
-| Data Ingestion Service | ✅ Completed |
-| Database Service | ✅ Completed |
-| Processing Workflow Service | ✅ Completed |
-| Configuration System | ✅ Completed |
-| Integration Testing | ✅ Completed |
-| End-to-End Demo | ✅ Completed |
-| Technical Implementation Report | ✅ Completed |
-| Git Commits | ✅ Completed |
-| Evidence Package | ✅ Completed |
+| Codebase Review and Cleanup |  Completed |
+| Data Ingestion Service |  Completed |
+| Database Service |  Completed |
+| Processing Workflow Service |  Completed |
+| Configuration System |  Completed |
+| Integration Testing |  Completed |
+| End-to-End Demo |  Completed |
+| Technical Implementation Report | Completed |
+| Git Commits |  Completed |
+| Evidence Package |  Completed |
 
 ### Services Built
 
 | **Service** | **Purpose** | **Status** |
 |-------------|-------------|------------|
-| Data Ingestion Service | Handles CSV, Excel, JSON, and API data through one common interface | ✅ Completed |
-| Database Service | Handles database connections, read/write operations, logging, and errors | ✅ Completed |
-| Processing Workflow Service | Connects cleaning, transformation, and optimization into one workflow | ✅ Completed |
+| Data Ingestion Service | Handles CSV, Excel, JSON, and API data through one common interface |  Completed |
+| Database Service | Handles database connections, read/write operations, logging, and errors |  Completed |
+| Processing Workflow Service | Connects cleaning, transformation, and optimization into one workflow |  Completed |
 
 ### Test Results
 
 | **Metric** | **Week 2** | **Week 4** | **Result** |
 |------------|------------|------------|------------|
-| Automated Tests | 29 | 51 | ✅ 22 new tests added |
-| Test Pass Rate | 100% | 100% | ✅ No failures |
-| Bugs Found | — | 2 | ✅ Both fixed and tested |
+| Automated Tests | 29 | 51 |  22 new tests added |
+| Test Pass Rate | 100% | 100% |  No failures |
+| Bugs Found | — | 2 |  Both fixed and tested |
 
 ### Bug Fixes
 
@@ -365,44 +370,44 @@ The ML & AI Engineer team focused on reviewing the existing AI architecture, def
 
 | **Member** | **Tasks Assigned** | **Tasks Completed** | **Status** |
 |------------|---------------------|-----------------------|------------|
-| Nerella Raghavendra Guptha | 18 | 18 | ✅ Completed |
-| Manga Sai Nikhil (Intern) | 18 | 18 | ✅ Completed |
+| Nerella Raghavendra Guptha | 18 | 18 |  Completed |
+| Manga Sai Nikhil (Intern) | 18 | 18 |  Completed |
 
 ### Key Achievements (Raghavendra)
 
 | **#** | **Achievement** | **Status** |
 |-------|-----------------|------------|
-| 1 | Reviewed AI architecture from Week 1–2 | ✅ |
-| 2 | Confirmed AI module interfaces | ✅ |
-| 3 | Defined AI pipeline inputs and outputs | ✅ |
-| 4 | Implemented model-service structure | ✅ |
-| 5 | Defined model input/output schemas | ✅ |
-| 6 | Prepared model configuration management | ✅ |
-| 7 | Integrated baseline ML model | ✅ |
-| 8 | Tested model inference pipeline | ✅ |
-| 9 | Developed initial RAG workflow | ✅ |
-| 10 | Tested document ingestion | ✅ |
-| 11 | Tested embedding and retrieval | ✅ |
-| 12 | Connected RAG/AI layer with NLP processing | ✅ |
-| 13 | Tested sample CARIVIX queries | ✅ |
-| 14 | Conducted AI architecture review | ✅ |
-| 15 | Documented integration results | ✅ |
-| 16 | Submitted AI prototype evidence | ✅ |
+| 1 | Reviewed AI architecture from Week 1–2 |Completed |
+| 2 | Confirmed AI module interfaces | Completed |
+| 3 | Defined AI pipeline inputs and outputs | Completed |
+| 4 | Implemented model-service structure | Completed |
+| 5 | Defined model input/output schemas | Completed |
+| 6 | Prepared model configuration management | Completed |
+| 7 | Integrated baseline ML model | Completed |
+| 8 | Tested model inference pipeline | Completed |
+| 9 | Developed initial RAG workflow | Completed |
+| 10 | Tested document ingestion | Completed |
+| 11 | Tested embedding and retrieval | Completed |
+| 12 | Connected RAG/AI layer with NLP processing | Completed |
+| 13 | Tested sample CARIVIX queries | Completed |
+| 14 | Conducted AI architecture review | Completed |
+| 15 | Documented integration results | Completed |
+| 16 | Submitted AI prototype evidence | Completed |
 
 ### Key Achievements (Sai Nikhil)
 
 | **#** | **Achievement** | **Status** |
 |-------|-----------------|------------|
-| 1 | Reviewed AI architecture and Git workflow | ✅ |
-| 2 | Prepared dataset for model training | ✅ |
-| 3 | Implemented preprocessing steps | ✅ |
-| 4 | Performed feature engineering | ✅ |
-| 5 | Ran baseline Linear Regression model | ✅ |
-| 6 | Generated evaluation metrics (R², RMSE) | ✅ |
-| 7 | Studied classification vs regression metrics | ✅ |
-| 8 | Researched RAG models | ✅ |
-| 9 | Tested sample CARIVIX queries | ✅ |
-| 10 | Created Pull Request and addressed feedback | ✅ |
+| 1 | Reviewed AI architecture and Git workflow | Completed|
+| 2 | Prepared dataset for model training | Completed |
+| 3 | Implemented preprocessing steps | Completed |
+| 4 | Performed feature engineering | Completed |
+| 5 | Ran baseline Linear Regression model | Completed |
+| 6 | Generated evaluation metrics (R², RMSE) | Completed |
+| 7 | Studied classification vs regression metrics | Completed |
+| 8 | Researched RAG models | Completed |
+| 9 | Tested sample CARIVIX queries | Completed |
+| 10 | Created Pull Request and addressed feedback | Completed |
 
 ### RAG Model Research
 
@@ -470,13 +475,13 @@ The Graphic Designer team focused on creating visual assets for the CARIVIX AI p
 
 | **#** | **Deliverable** | **Status** |
 |-------|-------------------|------------|
-| 1 | AI Illustrations (6 assets) | ✅ Completed |
-| 2 | Demo Visuals (5 assets) | ✅ Completed |
-| 3 | Feature Illustrations (6 assets) | ✅ Completed |
-| 4 | Feature Comparison (1 asset) | ✅ Completed |
-| 5 | Onboarding Visuals (4 assets) | ✅ Completed |
-| 6 | Product Walkthrough Visuals (5 assets) | ✅ Completed |
-| 7 | User Guidance Components (1 asset) | ✅ Completed |
+| 1 | AI Illustrations (6 assets) |  Completed |
+| 2 | Demo Visuals (5 assets) | Completed |
+| 3 | Feature Illustrations (6 assets) |  Completed |
+| 4 | Feature Comparison (1 asset) | Completed |
+| 5 | Onboarding Visuals (4 assets) |  Completed |
+| 6 | Product Walkthrough Visuals (5 assets) |  Completed |
+| 7 | User Guidance Components (1 asset) |  Completed |
 
 ### Tools/Technologies Used
 
@@ -502,7 +507,7 @@ The SEO/SEM Specialist team focused on consolidating the SEO/SEM strategy, docum
 
 | **#** | **Deliverable** | **Status** |
 |-------|-------------------|------------|
-| 1 | Week 4 Report and Evidence | ✅ Completed |
+| 1 | Week 4 Report and Evidence |  Completed |
 
 ### Proofs/Evidence Links
 
@@ -522,44 +527,44 @@ The Technical Writer focused on collecting and verifying Week 3 technical output
 
 | **Day** | **Task** | **Status** |
 |---------|----------|------------|
-| Day 1 | Collect Week 3 technical outputs | ✅ Completed |
-| Day 1 | Verify document naming standards | ✅ Completed |
-| Day 1 | Update documentation index | ✅ Completed |
-| Day 2 | Document Python/data-service architecture | ✅ Completed |
-| Day 2 | Document data-processing workflow | ✅ Completed |
-| Day 2 | Add implementation references | ✅ Completed |
-| Day 3 | Document GIS architecture | ✅ Completed |
-| Day 3 | Document PostGIS/API workflow | ✅ Completed |
-| Day 3 | Add GIS evidence references | ✅ Completed |
-| Day 4 | Document NLP and voice architecture | ✅ Completed |
-| Day 4 | Document AI query workflow | ✅ Completed |
-| Day 4 | Add technical diagrams | ✅ Completed |
-| Day 5 | Update AI/ML documentation | ✅ Completed |
-| Day 5 | Document model pipeline | ✅ Completed |
-| Day 5 | Document RAG workflow | ✅ Completed |
-| Day 6 | Conduct documentation quality review | ✅ Completed |
-| Day 6 | Verify evidence links | ✅ Completed |
-| Day 6 | Publish approved Week 3 documentation | ✅ Completed |
+| Day 1 | Collect Week 3 technical outputs |  Completed |
+| Day 1 | Verify document naming standards |  Completed |
+| Day 1 | Update documentation index |  Completed |
+| Day 2 | Document Python/data-service architecture |  Completed |
+| Day 2 | Document data-processing workflow |  Completed |
+| Day 2 | Add implementation references |  Completed |
+| Day 3 | Document GIS architecture |  Completed |
+| Day 3 | Document PostGIS/API workflow |  Completed |
+| Day 3 | Add GIS evidence references | Completed |
+| Day 4 | Document NLP and voice architecture |  Completed |
+| Day 4 | Document AI query workflow |  Completed |
+| Day 4 | Add technical diagrams |  Completed |
+| Day 5 | Update AI/ML documentation |  Completed |
+| Day 5 | Document model pipeline |  Completed |
+| Day 5 | Document RAG workflow | Completed |
+| Day 6 | Conduct documentation quality review |  Completed |
+| Day 6 | Verify evidence links | Completed |
+| Day 6 | Publish approved Week 3 documentation |  Completed |
 
 ### Deliverables
 
 | **#** | **Deliverable** | **Status** |
 |-------|-------------------|------------|
-| 1 | Week 3 Domain Reports (9 files) | ✅ |
-| 2 | Python Data Service Architecture | ✅ |
-| 3 | Data Processing Workflow | ✅ |
-| 4 | Implementation References | ✅ |
-| 5 | GIS Architecture | ✅ |
-| 6 | PostGIS API Workflow | ✅ |
-| 7 | GIS Evidence References | ✅ |
-| 8 | NLP Voice Architecture | ✅ |
-| 9 | AI Query Workflow | ✅ |
-| 10 | Technical Diagrams | ✅ |
-| 11 | AI/ML Model Pipeline | ✅ |
-| 12 | RAG Workflow | ✅ |
-| 13 | Quality Review Report | ✅ |
-| 14 | Evidence Links Verification | ✅ |
-| 15 | Week 3 Documentation Package | ✅ |
+| 1 | Week 3 Domain Reports (9 files) | Completed |
+| 2 | Python Data Service Architecture | Completed |
+| 3 | Data Processing Workflow | Completed |
+| 4 | Implementation References | Completed |
+| 5 | GIS Architecture | Completed |
+| 6 | PostGIS API Workflow | Completed |
+| 7 | GIS Evidence References | Completed |
+| 8 | NLP Voice Architecture | Completed |
+| 9 | AI Query Workflow | Completed |
+| 10 | Technical Diagrams | Completed |
+| 11 | AI/ML Model Pipeline | Completed |
+| 12 | RAG Workflow | Completed |
+| 13 | Quality Review Report | Completed |
+| 14 | Evidence Links Verification | Completed |
+| 15 | Week 3 Documentation Package | Completed |
 
 ### Proofs/Evidence Links
 
@@ -637,15 +642,5 @@ The project is well-positioned for continued execution with a strong foundation 
 ---
 
 **CARIVIX – Where Data Speaks Human.**
-
----
-
-**Document Control:**
-
-| **Version** | **Date** | **Author** | **Changes** |
-|-------------|----------|------------|-------------|
-| 1.0 | 29-08-2026 | Technical Writer | Initial version |
-
----
 
 **Distribution:** All Project Stakeholders
