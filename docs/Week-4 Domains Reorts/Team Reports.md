@@ -87,11 +87,7 @@ The Data Analyst Team progressed the CARIVIX AI analytics work from KPI definiti
 | Value Mismatches | 0 |
 | **Match Rate** | **100.00%** |
 
-### Proofs/Evidence Links
 
-| **Link** | **Description** |
-|----------|-----------------|
-| [Google Drive](https://drive.google.com/file/d/1nm0bbjHfkBUH3d96xy6qjFJz65cU1VJE/view?usp=drive_link) | KPI Data Model, Executive Dashboard Prototype, Interactive Charts |
 
 ---
 
@@ -151,11 +147,6 @@ The NLP & Voice Assistant Developer developed and integrated the core NLP query-
 | 12 | Question Answering |
 | 13 | Conversation |
 
-### Proofs/Evidence Links
-
-| **Link** | **Description** |
-|----------|-----------------|
-| Carivix_AI_Deepak.ipynb | NLP preprocessing, intent classification, NER, integration, and testing workflow |
 
 ---
 
@@ -211,17 +202,6 @@ The GIS Engineer covered the full path from a reviewed set of GIS datasets to a 
 | highway_trunk | 2.6 MB |
 | TELANGANA_DISTRICTS | 1.8 MB |
 
-### Proofs/Evidence Links
-
-| **Item** | **Description** |
-|----------|-----------------|
-| CARIVIX_Week4_Day1_Evidence_Package.docx | GIS dataset review, CRS & geometry validation |
-| CARIVIX_Week4_Day2_Evidence_Package.docx | Schema organization & spatial indexing |
-| CARIVIX_Week4_Day3_Evidence_Package.docx | GIS API deployment & endpoint verification |
-| CARIVIX_Week4_Day4_Evidence_Package.docx | Roads & water integration and spatial filtering |
-| CARIVIX_Week4_Day5_Evidence_Package.docx | Performance verification, index validation & final rendering sweep |
-| CARIVIX_Week4_Day6_Evidence_Package.docx | GIS technical demonstration, architecture documentation & evidence submission |
-| CARIVIX_GIS_Service_Architecture.docx | Consolidated database & API architecture reference |
 
 ---
 
@@ -269,18 +249,7 @@ The Python/R Developer moved the Python backend from separate working modules in
 | Non-Numeric Values | Corrected processing logic; rerun successful |
 | Timestamp Handling | Updated database service to convert timestamp values to supported format |
 
-### Proofs/Evidence Links
 
-| **Item** | **Description** |
-|----------|-----------------|
-| Data Ingestion Service | Code |
-| Database Service | Code |
-| Processing Workflow Service | Code |
-| Configuration System | YAML-based |
-| Automated Test Suite | 51 tests |
-| End-to-End Demonstration Script | Complete workflow |
-| Technical Implementation Report | Documentation |
-| Git Commit History | Version control |
 
 ---
 
@@ -351,12 +320,6 @@ The Research Analyst focused on consolidating CARIVIX AI research across Decisio
 | Feature Priority Matrix | High / Medium / Low feature prioritization |
 | Competitive Gap Matrix | Competitor gaps and CARIVIX opportunities |
 | Differentiation Strategy Matrix | Recommended CARIVIX differentiation approach |
-
-### Proofs/Evidence Links
-
-| **Link** | **Description** |
-|----------|-----------------|
-| Google Drive | All research documentation and deliverables |
 
 ---
 
@@ -444,11 +407,7 @@ LLM
 CARIVIX Answer / Report / Recommendation
 ```
 
-### Proofs/Evidence Links
 
-| **Link** | **Description** |
-|----------|-----------------|
-| Project Records | Implementation and validation results |
 
 ---
 
@@ -489,11 +448,7 @@ The Graphic Designer team focused on creating visual assets for the CARIVIX AI p
 |----------------|-----------|
 | Design | Adobe Photoshop, Figma |
 
-### Proofs/Evidence Links
 
-| **Link** | **Description** |
-|----------|-----------------|
-| Google Drive | All design assets (28 files) |
 
 ---
 
@@ -509,11 +464,6 @@ The SEO/SEM Specialist team focused on consolidating the SEO/SEM strategy, docum
 |-------|-------------------|------------|
 | 1 | Week 4 Report and Evidence |  Completed |
 
-### Proofs/Evidence Links
-
-| **Link** | **Description** |
-|----------|-----------------|
-| Google Docs | SEO/SEM Week 4 Report and Evidence |
 
 ---
 
@@ -565,23 +515,6 @@ The Technical Writer focused on collecting and verifying Week 3 technical output
 | 13 | Quality Review Report | Completed |
 | 14 | Evidence Links Verification | Completed |
 | 15 | Week 3 Documentation Package | Completed |
-
-### Proofs/Evidence Links
-
-| **Link** | **Description** |
-|----------|-----------------|
-| [GitHub Repository](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs) | All documentation |
-| [Week 3 Domain Reports](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/tree/Weekly-vise-Project-Documentation/docs/Week-3%20Domains%20Reports) | All 9 domain reports |
-| [Python Data Service Architecture](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/09.%20Python_Data_Service_Architecture.md) | Python backend architecture |
-| [Data Processing Workflow](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/10.%20Data_Processing_Workflow.md) | Data processing documentation |
-| [Implementation References](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/11.%20Implementation_References.md) | Implementation references |
-| [GIS Architecture](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/12.%20GIS_Architecture.md) | GIS system architecture |
-| [PostGIS API Workflow](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/13.PostGIS_API_Workflow.md) | PostGIS and API workflow |
-| [GIS Evidence References](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/14.GIS_Evidence_References.md) | GIS evidence and links |
-| [NLP Voice Architecture](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/15.NLP_Voice_Architecture.md) | NLP and voice architecture |
-| [AI Query Workflow](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/16.%20AI_Query_Workflow.md) | AI query processing workflow |
-| [AI/ML Model Pipeline](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/17.%20AI_ML_Model_Pipeline.md) | Machine learning model pipeline |
-| [RAG Workflow](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/18.%20RAG_Workflow.md) | RAG workflow documentation |
 
 ---
 
