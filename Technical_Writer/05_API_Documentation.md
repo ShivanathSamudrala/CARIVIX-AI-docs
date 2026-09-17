@@ -1,3 +1,13 @@
+---
+title: "CARIVIX AI – API Documentation Template"
+document_id: "TW-05"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-17"
+Author: Shivanath Samudrala  
+Role: Technical Writer  
+---
+
 # CARIVIX AI – API Documentation
 
 **Document Version:** X.Y.Z  
