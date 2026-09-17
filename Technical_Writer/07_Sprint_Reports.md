@@ -79,8 +79,3 @@ This document consolidates all sprint progress reports created for the CARIVIX A
 
 ---
 
-**Document Location:** `docs/10_Technical_Writer/07_Sprint_Reports.md`
-
----
-
-**Distribution:** All Project Stakeholders
