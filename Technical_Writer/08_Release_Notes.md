@@ -1,21 +1,13 @@
 ---
-title: "CARIVIX AI – Sprint Reports"
-document_id: "TW-07"
+title: "CARIVIX AI –  Release Notes"
+document_id: "TW-08"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-17"
 Author: Shivanath Samudrala  
 Role: Technical Writer  
 ---
-# CARIVIX AI – Release Notes
 
-**Document Version:** 1.0  
-**Date:** 17-09-2026  
-**Author:** Shivanath Samudrala  
-**Role:** Technical Writer  
-**Status:** Final  
-
----
 
 ## 1. Overview
 
