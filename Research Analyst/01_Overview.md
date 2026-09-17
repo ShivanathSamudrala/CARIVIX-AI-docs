@@ -1,11 +1,12 @@
-# CARIVIX AI – Research Analyst – Overview
 
-**Document Version:** 1.0  
-**Date:** 17-09-2026  
-**Author:** Shivanath Samudrala  
-**Role:** Technical Writer  
-**Status:** Final  
-
+---
+title: "CARIVIX AI – Research Analyst – Overview"
+document_id: "RA-01"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-17"
+Author: Shivanath Samudrala  
+Role: Technical Writer  
 ---
 
 ## 1. Overview
@@ -71,17 +72,3 @@ Information is documented through:
 - Supporting evidence
 
 ---
-
-## 4. Document Control
-
-| **Version** | **Date** | **Author** | **Changes** |
-|-------------|----------|------------|-------------|
-| 1.0 | 17-09-2026 | Shivanath Samudrala | Initial version created |
-
----
-
-**Document Location:** `docs/06_Research_Analyst/01_Overview.md`
-
----
-
-**Distribution:** All Project Stakeholders
