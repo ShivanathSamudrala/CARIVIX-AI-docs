@@ -1,43 +1,15 @@
-# CARIVIX AI — Domain Research
-
-> Consolidated domain research covering governance, public finance, public services, policy, infrastructure, revenue, social welfare, public safety, macroeconomics, employment, trade, investment, industry, agriculture, prices, and cross-domain intelligence.
-
-| | |
-|---|---|
-| **Version** | 1.0 |
-| **Date** | 17-09-2026 |
-| **Author** | Shivanath Samudrala |
-| **Role** | Technical Writer |
-| **Status** | Final |
-| **Location** | `docs/06_Research_Analyst/03_Domain_Research.md` |
-| **Distribution** | All project stakeholders |
-
+---
+title: "CARIVIX AI – Domain Research"
+document_id: "RA-03"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-17"
+Author: Shivanath Samudrala  
+Role: Technical Writer  
 ---
 
-## Table of Contents
 
-- [1. Overview](#1-overview)
-- [2. Governance & Administrative Intelligence](#2-governance--administrative-intelligence)
-- [3. Public Finance & Budget Intelligence](#3-public-finance--budget-intelligence)
-- [4. Public Service Performance Intelligence](#4-public-service-performance-intelligence)
-- [5. Policy & Program Intelligence](#5-policy--program-intelligence)
-- [6. Infrastructure & Development Intelligence](#6-infrastructure--development-intelligence)
-- [7. Revenue & Tax Intelligence](#7-revenue--tax-intelligence)
-- [8. Social Welfare & Citizen Intelligence](#8-social-welfare--citizen-intelligence)
-- [9. Public Safety & Crisis Intelligence](#9-public-safety--crisis-intelligence)
-- [10. Macroeconomic Intelligence](#10-macroeconomic-intelligence)
-- [11. Employment & Labour Intelligence](#11-employment--labour-intelligence)
-- [12. Trade & Export Intelligence](#12-trade--export-intelligence)
-- [13. Investment & Business Intelligence](#13-investment--business-intelligence)
-- [14. Industry & Sector Intelligence](#14-industry--sector-intelligence)
-- [15. Agriculture & Rural Economic Intelligence](#15-agriculture--rural-economic-intelligence)
-- [16. Price & Market Intelligence](#16-price--market-intelligence)
-- [17. Economic Risk & Early-Warning Intelligence](#17-economic-risk--early-warning-intelligence)
-- [18. Cross-Domain Intelligence](#18-cross-domain-intelligence)
-- [19. Domain Research Summary](#19-domain-research-summary)
-- [20. Document Control](#20-document-control)
 
----
 
 ## 1. Overview
 
@@ -254,10 +226,3 @@ This document consolidates CARIVIX AI domain research across all target intellig
 > **Note on counts.** The totals above are recounted from the entries in §2–§18 and differ from v1.0 of the source document, which listed 50 applications, 37 High and 3 High for Macroeconomic. The entries present are G01–G20, E01–E22 and X01–X06 = 48 applications; all four Macroeconomic entries (E01–E04) are marked High. If two applications were intended but not written up, they should be added before this table is treated as final.
 
 ---
-
-## 20. Document Control
-
-| Version | Date | Author | Changes |
-|---|---|---|---|
-| 1.0 | 17-09-2026 | Shivanath Samudrala | Initial version created |
-| 1.1 | 17-09-2026 | Shivanath Samudrala | Reformatted for repository publication; added table of contents, priority legend and ID key; corrected summary totals in §19 |
