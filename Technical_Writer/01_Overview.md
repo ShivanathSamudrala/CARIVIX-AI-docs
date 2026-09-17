@@ -1,11 +1,11 @@
-# CARIVIX AI – Technical Writer – Overview
-
-**Document Version:** 1.0  
-**Date:** 17-09-2026  
-**Author:** Shivanath Samudrala  
-**Role:** Technical Writer  
-**Status:** Final  
-
+---
+title: "CARIVIX AI – Technical Writer – Overview"
+document_id: "TW-01"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-17"
+Author: Shivanath Samudrala  
+Role: Technical Writer  
 ---
 
 ## 1. Overview
@@ -96,7 +96,7 @@ The Technical Writer domain is responsible for converting the technical work pro
 
 ## 7. Overall Status
 
-| **Status** | ✅ **Completed** |
+| **Status** |  **Completed** |
 |------------|------------------|
 | Documentation Package | Published |
 | Standards | Established |
@@ -114,9 +114,3 @@ The Technical Writer domain is responsible for converting the technical work pro
 | [GitHub Repository](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs) | Complete documentation repository |
 
 ---
-
-**Document Location:** `docs/10_Technical_Writer/01_Overview.md`
-
----
-
-**Distribution:** All Project Stakeholders
