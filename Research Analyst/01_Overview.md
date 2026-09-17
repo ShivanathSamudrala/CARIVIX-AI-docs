@@ -1,4 +1,3 @@
-
 ---
 title: "CARIVIX AI – Research Analyst – Overview"
 document_id: "RA-01"
