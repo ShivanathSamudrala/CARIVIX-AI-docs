@@ -8,6 +8,15 @@ Author: Shivanath Samudrala
 Role: Technical Writer  
 ---
 
+## 1. Overview
+
+This document consolidates the standardized templates used across the CARIVIX AI project for API documentation ensuring consistency in structure and formatting across all technical deliverables.
+
+---
+
+## 2. API Documentation Template
+
+````markdown
 # CARIVIX AI – API Documentation
 
 **Document Version:** X.Y.Z  
@@ -41,3 +50,21 @@ Role: Technical Writer
   "status": "success",
   "data": {}
 }
+```
+
+**Error Codes:**
+
+| **Code** | **Description** |
+|----------|------------------|
+
+---
+
+## 3. Document Control
+
+| **Version** | **Date** | **Author** | **Changes** |
+|-------------|----------|------------|-------------|
+| 1.0 | YYYY-MM-DD | [Author] | Initial version created |
+````
+
+---
+
