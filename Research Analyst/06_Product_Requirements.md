@@ -1,6 +1,6 @@
 ---
 title: "CARIVIX AI – Product Requirements"
-document_id: "RA-05"
+document_id: "RA-06"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-17"
