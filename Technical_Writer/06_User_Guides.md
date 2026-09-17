@@ -17,7 +17,7 @@ This document consolidates the standardized templates used across the CARIVIX AI
 
 
 
-## 3. User Manual Template
+## 2. User Manual Template
 
 ````markdown
 # CARIVIX AI – User Manual
@@ -54,7 +54,7 @@ This document consolidates the standardized templates used across the CARIVIX AI
 
 ---
 
-## 4. Overall Status
+## 3. Overall Status
 
 | **Field** | **Value** |
 |-----------|-----------|
@@ -64,7 +64,7 @@ This document consolidates the standardized templates used across the CARIVIX AI
 
 ---
 
-## 5. Proofs/Evidence Links
+## 4. Proofs/Evidence Links
 
 | **Link** | **Description** |
 |----------|-----------------|
