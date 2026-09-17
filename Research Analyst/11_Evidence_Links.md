@@ -1,6 +1,13 @@
-# CARIVIX AI — Research Evidence & Source Links
-
 ---
+title: "CARIVIX AI –  Research Evidence & Source Link"
+document_id: "RA-11"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-17"
+Author: Shivanath Samudrala  
+Role: Technical Writer  
+---
+
 
 ## Purpose
 
