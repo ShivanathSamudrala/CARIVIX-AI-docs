@@ -4,8 +4,8 @@ document_id: "ML-09"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
-Author: Nerella Raghavendra Guptha
-Role: ML & AI Engineer
+Author: Shivanath Samudrala
+Role: Technical Writer
 ---
 
 # Grounded Responses
@@ -468,4 +468,4 @@ The combination of:
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Nerella Raghavendra Guptha | Initial version — grounded responses documentation |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — grounded responses documentation |
