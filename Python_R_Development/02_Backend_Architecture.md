@@ -16,10 +16,10 @@ The CARIVIX AI backend is organized into **four core services**.
 
 | Service | Status |
 |---|---|
-| Data Ingestion Service | ✅ Fully connected |
-| Processing Workflow Service | ✅ Fully connected |
-| Database Service | ✅ Fully connected |
-| Predictive Analytics | ⏳ Functions only — not yet wrapped into a service |
+| Data Ingestion Service |  Fully connected |
+| Processing Workflow Service |  Fully connected |
+| Database Service |  Fully connected |
+| Predictive Analytics |  Functions only — not yet wrapped into a service |
 
 > **Summary:** Three of them are fully connected and share a **consistent design pattern**. The fourth exists as a **set of functions** but has **not yet been wrapped into a service** of its own.
 
@@ -115,10 +115,10 @@ This includes forecasting functions such as:
 
 | Aspect | Status |
 |---|---|
-| Functions exist | ✅ Yes |
-| Functions tested | ✅ Yes |
-| Wrapped into a connected service | ❌ Not yet |
-| Reachable through the API | ❌ Not yet |
+| Functions exist |  Yes |
+| Functions tested |  Yes |
+| Wrapped into a connected service |  Not yet |
+| Reachable through the API |  Not yet |
 
 > **This is expected future work.**
 
