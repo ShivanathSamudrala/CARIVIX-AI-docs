@@ -1,1 +1,246 @@
+---
+title: "CARIVIX AI — Deployment Guide"
+document_id: "PY-08"
+version: "1.0"
+status: "Final"
+last_updated: "2026-09-18"
+Author: Shivanath Samudrala
+Role: Technical Writer
+---
 
+# CARIVIX AI — Deployment Guide
+
+## 1. Purpose
+
+This document explains how to **set up, run, and verify** the CARIVIX AI Python and backend service on a **local machine**.
+
+It includes:
+
+| # | Topic |
+|---|---|
+| 1 | Required environment |
+| 2 | Setup steps |
+| 3 | Verification process |
+| 4 | Configuration details |
+| 5 | Current deployment limitations |
+| 6 | Basic troubleshooting steps |
+
+---
+
+## 2. Requirements
+
+| Requirement | Value |
+|---|---|
+| **Python Version** | 3.10 or later |
+| **System Dependencies** | None additional beyond the project's dependency file |
+
+> No additional system-level dependencies are required apart from the packages installed through the project's dependency file.
+
+---
+
+## 3. Local Setup
+
+### Step 1 — Create a Virtual Environment
+
+Create a dedicated virtual environment **inside the project folder**.
+
+> This keeps the backend dependencies separate from other Python projects and system installations.
+
+**Create the environment:**
+
+```bash
+python3 -m venv venv
+```
+
+**Activate the environment (Linux / macOS):**
+
+```bash
+source venv/bin/activate
+```
+
+**Activate the environment (Windows):**
+
+```bash
+venv\Scripts\activate
+```
+
+> The virtual environment should be activated before continuing with the remaining setup steps.
+
+### Step 2 — Install Dependencies
+
+Install the project dependencies using the requirements file:
+
+```bash
+pip install -r requirements.txt
+```
+
+> This installs the libraries required by the backend, including the data processing, API, and testing dependencies.
+
+### Step 3 — Verify the Installation
+
+Run the complete automated test suite after installing the dependencies:
+
+```bash
+pytest
+```
+
+**Current expected result:**
+
+> 70 tests passed and 0 tests failed ✅
+
+This verification step confirms that the environment and installed dependencies are working correctly.
+
+> If any test fails at this stage, the environment should be checked before continuing with API setup or further development.
+
+---
+
+## 4. Start the API Server
+
+Start the FastAPI server using the project's application entry point:
+
+```bash
+uvicorn api:app --reload
+```
+
+### After the Server Starts
+
+| # | What Happens |
+|---|---|
+| 1 | The terminal displays the address where the API is running |
+| 2 | The API provides an interactive documentation page through the browser |
+| 3 | The documentation lists available endpoints with their expected request and response formats |
+| 4 | The documentation is generated directly from the running API, so it reflects the current implementation |
+
+---
+
+## 5. Configuration
+
+### Configuration-Based Approach
+
+Data sources and processing profiles are managed through **configuration files** rather than being directly written into the application code.
+
+### Benefits
+
+| # | Benefit |
+|---|---|
+| 1 | New data sources and processing profiles can be added through configuration changes without modifying the main application code |
+| 2 | Makes it easier to maintain different processing requirements for different datasets |
+
+---
+
+## 6. Deployment Verification
+
+A successful deployment should be confirmed through **three checks**.
+
+| # | Check | Description |
+|---|---|---|
+| 1 | Test Suite | Run the complete automated test suite and confirm that all 70 tests pass |
+| 2 | API Server | Start the API server and confirm that it starts without errors |
+| 3 | Live API Request | Send at least one real request to the running API and verify that the expected response is returned |
+
+> All three checks are required for deployment verification.
+>
+> A successful test run and server startup alone do not confirm that the API is responding correctly to actual requests.
+
+---
+
+## 7. Current Deployment Scope
+
+The current deployment setup is intended for **local development and integration testing**.
+
+> It is **not currently intended for production use**.
+
+### 7.1 Authentication
+
+| Aspect | Detail |
+|---|---|
+| Current State | The API currently does not have authentication |
+| Impact | Any system that can reach the running server can currently access the available endpoints |
+| Requirement | Authentication needs to be added before production deployment |
+
+### 7.2 Database
+
+| Aspect | Detail |
+|---|---|
+| Current State | The current database uses a single fixed database file |
+| Limitation | Not yet configured as a production-grade database connection |
+| Requirement | A configurable production database setup is required before the backend is used for production traffic |
+
+---
+
+## 8. Troubleshooting
+
+### 8.1 Dependency Installation Issues
+
+If the dependencies do not install correctly:
+
+1. First check the Python version — the backend requires Python 3.10 or later
+2. Repeat the dependency installation:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Review the terminal output for any installation errors
+
+### 8.2 Test Failures After Installation
+
+If the test suite fails immediately after a fresh installation:
+
+1. Check whether all dependencies from the requirements file were installed successfully
+2. Reinstall the dependencies and review the installation output for errors before running the tests again:
+
+```bash
+pip install -r requirements.txt
+pytest
+```
+
+### 8.3 API Request Failure or Timeout
+
+If the API server starts successfully but a request fails or times out:
+
+1. Check the address and port shown in the server startup message
+2. Make sure the API request is being sent to the same address and port where the server is running
+
+---
+
+## 9. Deployment Flow
+
+The complete local deployment process is:
+
+**Python 3.10 or Later → Create Virtual Environment → Activate Environment → Install Dependencies → Run Test Suite → Start FastAPI Server → Open API Documentation → Send Live API Request → Verify Expected Response**
+
+---
+
+## 10. Summary
+
+The CARIVIX AI backend can be set up locally using:
+
+| Requirement | Value |
+|---|---|
+| Python Version | 3.10 or later |
+| Environment | Dedicated virtual environment |
+| Dependencies | Project's requirements file |
+
+### Verification
+
+The environment should be verified using the complete automated test suite before starting the API.
+
+> Current backend: **70 automated tests, all passing** ✅
+
+### Deployment Scope
+
+| Environment | Intended For |
+|---|---|
+| Current Setup | Development and integration testing |
+| Production | Requires authentication + configurable production-grade database |
+
+> Authentication and a configurable production-grade database are still required before the backend can be used for production traffic.
+
+---
+
+## Version Control
+
+| Version | Date | Author | Changes |
+|---|---|---|---|
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — deployment guide |
