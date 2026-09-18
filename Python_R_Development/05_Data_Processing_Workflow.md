@@ -154,8 +154,8 @@ The workflow includes a **memory optimization step** that adjusts data types to 
 | Metric | Result |
 |---|---|
 | Dataset Size | 5,000 rows |
-| Complete Workflow (all 7 steps) | **< 1 second** ✅ |
-| Measured Processing Rate | **~200,000 rows per second** ✅ |
+| Complete Workflow (all 7 steps) | **< 1 second**  |
+| Measured Processing Rate | **~200,000 rows per second**  |
 
 ---
 
@@ -176,9 +176,9 @@ The workflow was tested using a **deliberately messy 500-row dataset**.
 
 | Result | Status |
 |---|---|
-| Complete dataset processed successfully | ✅ |
-| Data loss | **Zero** ✅ |
-| Inconsistent category values | Standardized and correctly combined before encoding ✅ |
+| Complete dataset processed successfully | Completed |
+| Data loss | **Zero**  |
+| Inconsistent category values | Standardized and correctly combined before encoding  |
 
 ---
 
