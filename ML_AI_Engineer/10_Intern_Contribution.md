@@ -4,8 +4,8 @@ document_id: "ML-10"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
-Author: Sai Nikhil Manga
-Role: ML & AI Intern
+Author: Shivanath Samudrala
+Role: Technical Writer
 ---
 
 # AI/ML Intern — Technical Learning and Development Report
@@ -238,4 +238,4 @@ The intern progressively moves from:
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Sai Nikhil Manga | Initial version — intern technical learning and development report |
+| 1.0 | 2026-09-18 |Shivanath Samudrala | Initial version — intern technical learning and development report |
