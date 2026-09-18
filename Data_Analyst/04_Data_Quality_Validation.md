@@ -5,7 +5,7 @@ version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
 Author: Shivanath Samudrala
-Role: Data Analyst
+Role: Technical Writer
 ---
 
 # Data Quality and Validation
