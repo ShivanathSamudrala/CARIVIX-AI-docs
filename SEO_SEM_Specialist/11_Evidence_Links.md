@@ -70,7 +70,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.4 Marketing Analytics Report
 
-**Formatted Document:** `SEO_SEM_Specialist/10_Marketing_Analytics_Report.md`
+**Formatted Document:** [`SEO_SEM_Specialist/10_Marketing_Analytics_Report.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/10_Marketing_Analytics_Report.md)
 
 | # | Evidence File | Date |
 |---|---|---|
