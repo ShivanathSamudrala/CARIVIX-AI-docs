@@ -81,7 +81,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.5 Keyword Mapping
 
-**Formatted Document:** `SEO_SEM_Specialist/02_Keyword_Mapping.md`
+**Formatted Document:** [`SEO_SEM_Specialist/02_Keyword_Mapping.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/02_Keyword_Mapping.md)
 
 | # | Evidence File | Notes |
 |---|---|---|
