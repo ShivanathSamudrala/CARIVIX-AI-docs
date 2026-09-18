@@ -506,3 +506,11 @@ The current CARIVIX AI/RAG implementation has established the core components re
 - Perform systematic groundedness checks
 - Classify failures
 - Compare results across iterations to confirm measurable improvement
+
+---
+
+## Version Control
+
+| Version | Date | Author | Changes |
+|---|---|---|---|
+| 1.0 | 2026-09-08 | Shivanath Samudrala | Initial version |
