@@ -212,7 +212,7 @@ This evidence document provides a **complete, traceable, and verifiable record**
 - Weekly evidence files (Week 3 entries)
 - Source planning documents
 - Full timeline from 21 July 2026 to 08 September 2026
-- 11 formatted documents in `SEO_SEM_Specialist/`
+- 11 formatted documents in [`SEO_SEM_Specialist/`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/tree/SEO_SEM_Specialist/SEO_SEM_Specialist)
 
 ### Evidence Trail Supports
 
