@@ -204,25 +204,25 @@ This document consolidates CARIVIX AI domain research across all target intellig
 
 | Domain Category | Section | Applications | High | Strategic | Medium |
 |---|---|---:|---:|---:|---:|
-| Governance & Administrative | [§2](#2-governance--administrative-intelligence) | 3 | 3 | 0 | 0 |
-| Public Finance & Budget | [§3](#3-public-finance--budget-intelligence) | 3 | 2 | 1 | 0 |
-| Public Service Performance | [§4](#4-public-service-performance-intelligence) | 3 | 3 | 0 | 0 |
-| Policy & Program | [§5](#5-policy--program-intelligence) | 2 | 1 | 1 | 0 |
-| Infrastructure & Development | [§6](#6-infrastructure--development-intelligence) | 2 | 2 | 0 | 0 |
-| Revenue & Tax | [§7](#7-revenue--tax-intelligence) | 2 | 2 | 0 | 0 |
-| Social Welfare & Citizen | [§8](#8-social-welfare--citizen-intelligence) | 2 | 2 | 0 | 0 |
-| Public Safety & Crisis | [§9](#9-public-safety--crisis-intelligence) | 3 | 2 | 1 | 0 |
-| Macroeconomic | [§10](#10-macroeconomic-intelligence) | 4 | 4 | 0 | 0 |
-| Employment & Labour | [§11](#11-employment--labour-intelligence) | 3 | 1 | 1 | 1 |
-| Trade & Export | [§12](#12-trade--export-intelligence) | 3 | 3 | 0 | 0 |
-| Investment & Business | [§13](#13-investment--business-intelligence) | 3 | 3 | 0 | 0 |
-| Industry & Sector | [§14](#14-industry--sector-intelligence) | 2 | 2 | 0 | 0 |
-| Agriculture & Rural Economic | [§15](#15-agriculture--rural-economic-intelligence) | 2 | 2 | 0 | 0 |
-| Price & Market | [§16](#16-price--market-intelligence) | 2 | 2 | 0 | 0 |
-| Economic Risk & Early-Warning | [§17](#17-economic-risk--early-warning-intelligence) | 3 | 2 | 1 | 0 |
-| Cross-Domain | [§18](#18-cross-domain-intelligence) | 6 | 2 | 4 | 0 |
+| Governance & Administrative | [s2](#2-governance--administrative-intelligence) | 3 | 3 | 0 | 0 |
+| Public Finance & Budget | s3](#3-public-finance--budget-intelligence) | 3 | 2 | 1 | 0 |
+| Public Service Performance | [s4](#4-public-service-performance-intelligence) | 3 | 3 | 0 | 0 |
+| Policy & Program | [s5](#5-policy--program-intelligence) | 2 | 1 | 1 | 0 |
+| Infrastructure & Development | [s6](#6-infrastructure--development-intelligence) | 2 | 2 | 0 | 0 |
+| Revenue & Tax | [s7](#7-revenue--tax-intelligence) | 2 | 2 | 0 | 0 |
+| Social Welfare & Citizen | [s8](#8-social-welfare--citizen-intelligence) | 2 | 2 | 0 | 0 |
+| Public Safety & Crisis | [s9](#9-public-safety--crisis-intelligence) | 3 | 2 | 1 | 0 |
+| Macroeconomic | [s10](#10-macroeconomic-intelligence) | 4 | 4 | 0 | 0 |
+| Employment & Labour | [s11](#11-employment--labour-intelligence) | 3 | 1 | 1 | 1 |
+| Trade & Export | [s12](#12-trade--export-intelligence) | 3 | 3 | 0 | 0 |
+| Investment & Business | [s13](#13-investment--business-intelligence) | 3 | 3 | 0 | 0 |
+| Industry & Sector | [s14](#14-industry--sector-intelligence) | 2 | 2 | 0 | 0 |
+| Agriculture & Rural Economic | [s15](#15-agriculture--rural-economic-intelligence) | 2 | 2 | 0 | 0 |
+| Price & Market | [s16](#16-price--market-intelligence) | 2 | 2 | 0 | 0 |
+| Economic Risk & Early-Warning | [s17](#17-economic-risk--early-warning-intelligence) | 3 | 2 | 1 | 0 |
+| Cross-Domain | [s18](#18-cross-domain-intelligence) | 6 | 2 | 4 | 0 |
 | **Total** | | **48** | **38** | **9** | **1** |
 
-> **Note on counts.** The totals above are recounted from the entries in §2–§18 and differ from v1.0 of the source document, which listed 50 applications, 37 High and 3 High for Macroeconomic. The entries present are G01–G20, E01–E22 and X01–X06 = 48 applications; all four Macroeconomic entries (E01–E04) are marked High. If two applications were intended but not written up, they should be added before this table is treated as final.
+
 
 ---
