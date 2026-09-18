@@ -21,7 +21,6 @@ The Data Dictionary was developed and progressively updated across four sprints 
 | Sprint 3 | Final Analytical Dictionary |
 | Sprint 4 | Updated Data Dictionary |
 
-> **Note:** The complete field-level Data Dictionary is maintained as the master technical reference in [`07_Database/Data_Dictionary.md`](../../07_Database/Data_Dictionary.md). This document describes the **development history and current coverage** of that dictionary.
 
 ---
 
