@@ -29,7 +29,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.1 Analytics Framework
 
-**Formatted Document:** `SEO_SEM_Specialist/06_Analytics_Framework.md`
+**Formatted Document:** [`SEO_SEM_Specialist/06_Analytics_Framework.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/06_Analytics_Framework.md)
 
 | # | Evidence File | Date | Notes |
 |---|---|---|---|
