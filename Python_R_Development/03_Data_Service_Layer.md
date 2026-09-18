@@ -132,7 +132,7 @@ The complete data flow **from ingestion → processing → storage → retrieval
 |---|---|
 | **Dataset Size** | 5,000 rows |
 | **Purpose** | Test processing performance at a larger scale |
-| **Result** | ✅ Pipeline completed in **under one second** |
+| **Result** |  Pipeline completed in **under one second** |
 
 ---
 
