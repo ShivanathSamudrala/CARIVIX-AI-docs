@@ -5,7 +5,7 @@ version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
 Author: Shivanath Samudrala
-Role:Technical Writer
+Role: Technical Writer
 ---
 
 # ML & AI Engineer — Evidence Links
