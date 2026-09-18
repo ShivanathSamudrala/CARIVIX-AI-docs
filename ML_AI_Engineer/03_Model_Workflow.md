@@ -294,4 +294,4 @@ Final CARIVIX Output
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Nerella Raghavendra Guptha | Initial version — Model workflow documentation |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — Model workflow documentation |
