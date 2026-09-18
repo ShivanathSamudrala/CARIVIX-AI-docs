@@ -97,8 +97,8 @@ All source `.docx` files for the ML/AI domain are available in the shared Drive 
 | 4 | `AI Evaluation .docx` | Sep 7 | 715 KB | `04_AI_Evaluation_Process.md` |
 | 5 | `Model Pipeline .docx` | Aug 22 | 1.2 MB | `05_Model_Pipeline.md` |
 | 6 | `RAG Workflow.docx` | Sep 13 | 656 KB | `06_RAG_Workflow.md` |
-| 7 | `Prompt Templates` (source) | — | — | `08_Prompt_Templates.md` |
-| 8 | `Grounded Responses` (source) | — | — | `09_Grounded_Responses.md` |
+| 7 | `Prompt Templates`  | Sep 18 | 662 KB | `08_Prompt_Templates.md` |
+| 8 | `Grounded Responses`  | Sep 18 | 751 KB | `09_Grounded_Responses.md` |
 | 9 | `AI Engine .docx` | Sep 17 | 781 KB | `09_AI_Engine.md` |
 | 10 | `Prediction Engine.docx` | Sep 17 | 604 KB | `10_Prediction_Engine.md` |
 | 11 | `CARIVIX AI Engine – AI Query Workflow.docx` | Aug 21 | 1.5 MB | `04_AI_Query_Workflow.md` |
