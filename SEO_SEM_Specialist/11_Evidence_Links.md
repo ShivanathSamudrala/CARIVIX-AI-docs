@@ -57,7 +57,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.3 Backlink Strategy
 
-**Formatted Document:** `SEO_SEM_Specialist/09_Backlink_Strategy.md`
+**Formatted Document:** [`SEO_SEM_Specialist/09_Backlink_Strategy.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/09_Backlink_Strategy.md)
 
 | # | Evidence File | Date |
 |---|---|---|
