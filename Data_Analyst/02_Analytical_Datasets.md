@@ -4,8 +4,8 @@ document_id: "DA-02"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
-Author: Sri Abhinav Nagamalla, Nandhu Mamidi
-Role: Data Analyst
+Author: Shivanath Samudrala
+Role: Technical Writer
 ---
 
 # Analytical Dataset Development
