@@ -45,7 +45,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.2 SEM Campaign Structure
 
-**Formatted Document:** `SEO_SEM_Specialist/07_SEM_Campaign_Structure.md`
+**Formatted Document:** [`SEO_SEM_Specialist/07_SEM_Campaign_Structure.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/07_SEM_Campaign_Structure.md)
 
 | # | Evidence File | Date |
 |---|---|---|
