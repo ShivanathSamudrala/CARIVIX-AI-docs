@@ -694,4 +694,4 @@ This overview therefore represents the complete technical progression of the CAR
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Nerella Raghavendra Guptha | Initial version — AI/ML project overview |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — AI/ML project overview |
