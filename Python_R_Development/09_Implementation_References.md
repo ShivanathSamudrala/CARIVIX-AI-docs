@@ -188,44 +188,9 @@ This allows the actual implementation to be reviewed **directly alongside** the 
 
 ---
 
-## 11. Reference Structure
-
-The main backend structure can be viewed as follows:
-
-CARIVIX AI Backend
-│
-├── api.py
-│
-├── data_acquisition
-│ ├── ingestion_service.py
-│ └── importers
-│ ├── CSV importer
-│ ├── Excel importer
-│ ├── JSON importer
-│ └── API importer
-│
-├── data_processing
-│ ├── processing_workflow.py
-│ ├── data_validation.py
-│ └── error_handling.py
-│
-├── database
-│ └── database_service.py
-│
-├── config
-│ ├── data_sources.yaml
-│ └── processing_profiles.yaml
-│
-├── tests
-│
-├── requirements.txt
-│
-└── SETUP.md
-
-
 ---
 
-## 12. Summary
+## 11. Summary
 
 The implementation reference provides a **direct path to the main files** responsible for the CARIVIX AI Python and backend functionality.
 
