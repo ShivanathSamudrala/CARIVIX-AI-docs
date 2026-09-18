@@ -126,7 +126,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.9 Content Cluster Plan
 
-**Formatted Document:** `SEO_SEM_Specialist/08_Content_Cluster_Plan.md`
+**Formatted Document:** [`SEO_SEM_Specialist/08_Content_Cluster_Plan.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/08_Content_Cluster_Plan.md)
 
 | # | Evidence File | Notes |
 |---|---|---|
