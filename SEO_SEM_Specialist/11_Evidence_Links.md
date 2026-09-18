@@ -91,7 +91,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.6 Technical SEO
 
-**Formatted Document:** `SEO_SEM_Specialist/04_Technical_SEO.md`
+**Formatted Document:** [`SEO_SEM_Specialist/04_Technical_SEO.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/04_Technical_SEO.md)
 
 | # | Evidence File | Notes |
 |---|---|---|
