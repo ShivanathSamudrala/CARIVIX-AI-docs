@@ -379,7 +379,13 @@ The backlink strategy is positioned around CARIVIX's **AI-powered research, inte
 | Brand | Branded Search CPC | ≤₹15 | ≤₹12 |
 
 ---
+---
 
+## Version Control
+
+| Version | Date | Author | Changes |
+|---|---|---|---|
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — SEO & SEM technical project overview 
 ## 12. Marketing Analytics & Measurement
 
 The analytics framework connects:
