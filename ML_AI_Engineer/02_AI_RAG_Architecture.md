@@ -499,4 +499,4 @@ Overall, the CARIVIX AI/RAG architecture provides the technical foundation for c
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Nerella Raghavendra Guptha | Initial version — AI/RAG architecture |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — AI/RAG architecture |
