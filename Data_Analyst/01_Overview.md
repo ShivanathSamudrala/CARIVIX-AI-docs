@@ -159,4 +159,4 @@ Sprint 4 extended the analytical foundation into **Government and Economic Intel
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Sri Abhinav Nagamalla, Nandhu Mamidi | Initial version — Data Analyst documentation overview |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — Data Analyst documentation overview |
