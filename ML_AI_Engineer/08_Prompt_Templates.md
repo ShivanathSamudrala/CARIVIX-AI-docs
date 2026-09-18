@@ -1,6 +1,6 @@
 ---
 title: "Prompt Templates"
-document_id: "ML-05"
+document_id: "ML-08"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
