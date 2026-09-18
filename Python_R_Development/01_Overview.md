@@ -141,7 +141,7 @@ The backend is currently **stable and fully connected**.
 | Metric | Value |
 |---|---|
 | Automated tests | 70 |
-| Passing tests | 70 / 70 ✅ |
+| Passing tests | 70 / 70 |
 
 ### API Endpoints
 
