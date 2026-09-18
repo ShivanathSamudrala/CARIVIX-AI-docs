@@ -4,8 +4,8 @@ document_id: "ML-11"
 version: "1.0"
 status: "Final"
 last_updated: "2026-09-18"
-Author: Nerella Raghavendra Guptha
-Role: ML & AI Engineer
+Author: Shivanath Samudrala
+Role:Technical Writer
 ---
 
 # ML & AI Engineer — Evidence Links
@@ -328,4 +328,4 @@ The evidence trail supports:
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-09-18 | Nerella Raghavendra Guptha | Initial version — ML & AI evidence links |
+| 1.0 | 2026-09-18 | Shivanath Samudrala | Initial version — ML & AI evidence links |
