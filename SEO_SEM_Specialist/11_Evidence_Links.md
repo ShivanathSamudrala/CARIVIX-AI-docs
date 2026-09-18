@@ -116,7 +116,7 @@ This evidence trail supports **verification**, **traceability**, and **audit-rea
 
 ### 2.8 Metadata Optimization
 
-**Formatted Document:** `SEO_SEM_Specialist/05_Metadata_Optimization.md`
+**Formatted Document:** [`SEO_SEM_Specialist/05_Metadata_Optimization.md`](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/SEO_SEM_Specialist/SEO_SEM_Specialist/05_Metadata_Optimization.md)
 
 | # | Evidence File | Date |
 |---|---|---|
