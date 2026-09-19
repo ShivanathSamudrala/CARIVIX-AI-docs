@@ -308,7 +308,7 @@ This endpoint allows multiple records to be processed through a single API call.
 |---|---|
 | Records Processed | 2 applicant records |
 | HTTP Status | 200 |
-| Result | PASS ✅ |
+| Result | PASS  |
 | Latency | 187.6 ms |
 
 ### 6.6 AI Query
