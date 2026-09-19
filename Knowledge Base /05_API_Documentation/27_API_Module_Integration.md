@@ -185,7 +185,8 @@ The FastAPI application is the **primary runtime interface** for CARIVIX AI.
 
 ### 5.2 API Architecture
 
-*(System architecture diagram — see overall architecture in [Section 3.1]([System_architecture](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/08.%20System_Architecture.md)))*
+System architecture diagram — see overall architecture in 
+[System_Architecture](https://github.com/ShivanathSamudrala/CARIVIX-AI-docs/blob/main/Knowledge%20Base%20/03_System_Design/08.%20System_Architecture.md)
 
 ### 5.3 Why FastAPI is Used
 
