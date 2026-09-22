@@ -4,7 +4,7 @@
 | Field | Details |
 |---|---|
 | **Project** | CARIVIX AI – AI-Powered Research, Intelligence & Decision Support Ecosystem  |
-| **Report Type** | Weekly Team Progress Report |
+| **Report Type** | Weekly Team Report |
 | **Sprint** |Sprint 4 — Core Intelligence Development, Module Integration & Market Readiness |
 | **Reporting Period** | 01/09/2026 – 08/09/2026 |
 | **Report Date** | 11/09/2026 |
